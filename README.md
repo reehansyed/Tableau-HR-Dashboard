@@ -53,6 +53,6 @@ education fields.
 ## 📝 Future Enhancements
 - Incorporate predictive analytics to forecast attrition trends.
 - Add filters for additional demographics (e.g., location, tenure).
-- Integrate real-time data for dynamic updates.
+- Integrate real-time data to enable dynamic updates.
   ## 🔍 Conclusion
 The HR Analytics Dashboard effectively visualizes key HR metrics, providing actionable insights into employee attrition, demographics, and job satisfaction. By highlighting critical trends such as department-wise attrition and age group distribution, the dashboard empowers HR professionals to design targeted strategies for improving employee retention and satisfaction. This tool is a valuable asset for data-driven decision-making in human resource management.
